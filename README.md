@@ -1,6 +1,7 @@
 # robot_description
 
 This ROS 2 package provides the URDF/Xacro robot model and launch files to publish the TF tree using `robot_state_publisher`.
+While the current one is only for running through localization.
 
 ## Features
 
